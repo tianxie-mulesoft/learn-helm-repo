@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  demochart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-01-13T23:48:32.732893-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 6774acb4bf7368d35141b13457683de2e4bfafe8a0170e562398e27ccfbbcf1b
+    name: demochart
+    urls:
+    - https://tianxie-mulesoft.github.io/learn-helm-repo/demochart-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-01-13T23:48:32.732282-08:00"
